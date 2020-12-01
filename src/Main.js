@@ -7,7 +7,7 @@ function App() {
       <div className="App">
         <div className="App-header">
           <div className="rightMenu">
-            <div className="mainTitle">기하 샵</div>
+            <div className="mainTitle">기하 샵111</div>
           </div>
         </div>
     </div>
